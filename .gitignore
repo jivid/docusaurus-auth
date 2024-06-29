@@ -68,6 +68,7 @@ web_modules/
 
 # Output of 'npm pack'
 *.tgz
+!react-netlify-identity-widget-0.2.7.tgz
 
 # Yarn Integrity file
 .yarn-integrity
